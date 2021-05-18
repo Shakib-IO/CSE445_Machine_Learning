@@ -11,7 +11,10 @@ To  train  our  model  for  image  denoising tasks,  we use 320 high-resolution 
 Sample of the dataset:
 
 <img src = "https://github.com/Shakib-IO/CSE445_Machine_Learning/blob/main/images/noisy_image.png"> 
-<img src = "https://github.com/Shakib-IO/CSE445_Machine_Learning/blob/main/images/GT_images.png"> 
+
 Noisy Image
+
+<img src = "https://github.com/Shakib-IO/CSE445_Machine_Learning/blob/main/images/GT_images.png"> 
+
 Ground Truth Image
 
