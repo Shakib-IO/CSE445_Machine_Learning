@@ -18,3 +18,18 @@ Noisy Image
 
 Ground Truth Image
 
+**Class Lecture**
+
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
+Lecture 01 : <br>
