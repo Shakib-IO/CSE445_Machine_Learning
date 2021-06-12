@@ -29,7 +29,7 @@ Lecture 06 : <br>
 Lecture 07 : <br>
 Lecture 08 : <br>
 Lecture 09 : K-Fold Validation https://drive.google.com/file/d/1nsRi3iTBBht4nFd_HQ0ZgHWKVO54awDr/view?usp=sharing <br>
-Lecture 10 : <br>
+Lecture 10 : Data Visualization <br>
 Lecture 11 : <br>
 Lecture 12 : <br>
 Lecture 13 : <br>
