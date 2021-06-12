@@ -21,15 +21,15 @@ Ground Truth Image
 **Class Lecture**
 
 Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
-Lecture 01 : <br>
+Lecture 02 : <br>
+Lecture 03 : <br>
+Lecture 04 : <br>
+Lecture 05 : <br>
+Lecture 06 : <br>
+Lecture 07 : <br>
+Lecture 08 : <br>
+Lecture 09 : <br>
+Lecture 10 : <br>
+Lecture 11 : <br>
+Lecture 12 : <br>
+Lecture 13 : <br>
