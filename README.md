@@ -30,6 +30,6 @@ Lecture 07 : <br>
 Lecture 08 : <br>
 Lecture 09 : K-Fold Validation https://drive.google.com/file/d/1nsRi3iTBBht4nFd_HQ0ZgHWKVO54awDr/view?usp=sharing <br>
 Lecture 10 : Data Visualization https://drive.google.com/file/d/11RtXAuTgRPKZmySrPM6L1u4sunpwEkpk/view?usp=sharing <br>
-Lecture 11 : <br>
+Lecture 11 : KNN & Scaling<br>
 Lecture 12 : <br>
 Lecture 13 : <br>
