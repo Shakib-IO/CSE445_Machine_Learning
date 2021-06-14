@@ -33,3 +33,4 @@ Lecture 10 : Data Visualization https://drive.google.com/file/d/11RtXAuTgRPKZmyS
 Lecture 11 : KNN & Scaling https://drive.google.com/file/d/1eUQyWoKx4RmkzQreUs_RgWSz558sGWEU/view?usp=sharing <br>
 Lecture 12 : Imbalance class prbolem, Precision, Recall, F1-Score https://drive.google.com/file/d/1IKpEsJhFls50DKSKvE6xedUsv93mZsjF/view?usp=sharing <br>
 Lecture 13 : Accuracy metrics & AUC ROC curve<br>
+Lecture 14 : Notebook Example <br>
