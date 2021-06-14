@@ -32,4 +32,4 @@ Lecture 09 : K-Fold Validation https://drive.google.com/file/d/1nsRi3iTBBht4nFd_
 Lecture 10 : Data Visualization https://drive.google.com/file/d/11RtXAuTgRPKZmySrPM6L1u4sunpwEkpk/view?usp=sharing <br>
 Lecture 11 : KNN & Scaling https://drive.google.com/file/d/1eUQyWoKx4RmkzQreUs_RgWSz558sGWEU/view?usp=sharing <br>
 Lecture 12 : Imbalance class prbolem, Precision, Recall, F1-Score <br>
-Lecture 13 : <br>
+Lecture 13 : Accuracy metrics & AUC ROC curve<br>
