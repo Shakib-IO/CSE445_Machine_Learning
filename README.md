@@ -23,7 +23,7 @@ Ground Truth Image
 Lecture 01 : <br>
 Lecture 02 : <br>
 Lecture 03 : ZeroR classifier https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing <br>
-Lecture 04 : OneR classifier <br>
+Lecture 04 : OneR classifier https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing <br>
 Lecture 05 : <br>
 Lecture 06 : <br>
 Lecture 07 : <br>
