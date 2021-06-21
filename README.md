@@ -24,7 +24,7 @@ Lecture 01 : Introduction https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_j
 Lecture 02 : <br>
 Lecture 03 : ZeroR classifier https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing <br>
 Lecture 04 : OneR classifier https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing <br>
-Lecture 05 : <br>
+Lecture 05 : Decision Tree https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing<br>
 Lecture 06 : Decision Tree Basic https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing<br>
 Lecture 07 : Decision Tree Math https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing <br>
 Lecture 08 : Practical aspects of ML https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing<br>
