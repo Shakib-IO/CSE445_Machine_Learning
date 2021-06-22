@@ -21,7 +21,7 @@ Ground Truth Image
 **Class Lecture**
 
 Lecture 01 : Introduction https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing <br>
-Lecture 02 : <br>
+Lecture 02 : Supervised https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing <br>
 Lecture 03 : ZeroR classifier https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing <br>
 Lecture 04 : OneR classifier https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing <br>
 Lecture 05 : Decision Tree https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing<br>
