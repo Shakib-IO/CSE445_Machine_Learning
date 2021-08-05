@@ -20,6 +20,34 @@ Ground Truth Image
 
 **Class Lecture**
 
+Video Lecture Link:
+
+| Lecture No        | Link     | 
+| ------------- |:-------------:| 
+| Lecture 01 | [Introduction](https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing)
+| Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
+| Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
+| Lecture 04 | [Error calculation](https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
+| Lecture 05 | [Target output calculated output](https://drive.google.com/file/d/1MxyLektiQLYlDKv2jBg4hcypNiqjoVCv/view?usp=sharing)|
+| Lecture 06 | [Gradient Derivative](https://drive.google.com/file/d/1324nGDz1Xk2X5H21DoU3lcOvXJItb96k/view?usp=sharing)|
+| Lecture 07 | [Supervised, Unsupervised](https://drive.google.com/file/d/1Zh75PxmrzoyPC0nvZL2y1l_1fkD5cdi8/view?usp=sharing)|
+| Lecture 08 | [Softmax](https://drive.google.com/file/d/1F4PIYP1pr456YS2p0BbfiRyapOsYivUB/view?usp=sharing)|
+| Lecture 09 | [GEntropy, Cross-Entropy, KL-Divergence](https://drive.google.com/file/d/1EmL51b7FRsXOWgig9j2BBpbz31-88KnN/view?usp=sharing)|
+| Lecture 10 | [AutoEncoder](https://drive.google.com/file/d/1ul6XZzecj_a4LnBUyZaFEQRlVUp91vXw/view?usp=sharing<br>)|
+| Lecture 11 | [Intro to CNN](https://drive.google.com/file/d/1yZmDtrA2Pb7ipktO8mSXQPxSR-6rGINr/view?usp=sharing)|
+| Lecture 12 | [Kernel , Filter , AlexNet Paper](https://drive.google.com/file/d/1mIEH3_RJaxlsR1H9forDzCydZO5ZMuCr/view?usp=sharing)|
+| Lecture 13 | [Calculate the Shpae of CNN (Alexnet Papaer)](https://drive.google.com/file/d/1jcE5c8wjvLRBj7elgIMsye6LNsKEAW1V/view?usp=sharing)|
+| Lecture 14 | [CNN padding, stride](https://drive.google.com/file/d/1rybGxgY8YluSySNux_Sn1zHD17FzjTJ4/view?usp=sharing)|
+| Lecture 15 | []()|
+| Lecture 16 | [Siamese Network](https://drive.google.com/file/d/1_zcTrOfoU0mAm5sLidlOnqK31X2NBTQ0/view?usp=sharing)|
+| Lecture 17 | [Triplet loss](https://drive.google.com/file/d/1GM0yzHq9uuY_TcFIbvjAHNg1js1SCZdC/view?usp=sharing)|
+| Lecture 18 | [RNN](https://drive.google.com/file/d/1-scEA6TxRU4IEwQ30QqnQOoO0p8X7cLm/view?usp=sharing )|
+| Lecture 19 | [Transformer](https://drive.google.com/file/d/1qh6ujiEVvE9kuarVLrNHT9U3PMfk2wJp/view?usp=sharing)|
+| Lecture 20 | [LSTM](https://drive.google.com/file/d/1womR3T5yaFhtXoOxqP2oKd4wXgnTAJ2n/view?usp=sharing)|
+| Lecture 21 | [Assessment discussion](https://drive.google.com/file/d/13MGWK-_v-WwBA-OykoLdGl7W0ig_SmLI/view?usp=sharing)|
+
+
+
 Lecture 01 : Introduction https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing <br>
 Lecture 02 : Supervised https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing <br>
 Lecture 03 : ZeroR classifier https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing <br>
