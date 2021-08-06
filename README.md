@@ -27,7 +27,7 @@ Video Lecture Link:
 | Lecture 01 | [Introduction](https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing)
 | Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
 | Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
-| Lecture 04 | [Error calculation](https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
+| Lecture 04 | [OneR classifier] (https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
 | Lecture 05 | [Target output calculated output](https://drive.google.com/file/d/1MxyLektiQLYlDKv2jBg4hcypNiqjoVCv/view?usp=sharing)|
 | Lecture 06 | [Gradient Derivative](https://drive.google.com/file/d/1324nGDz1Xk2X5H21DoU3lcOvXJItb96k/view?usp=sharing)|
 | Lecture 07 | [Supervised, Unsupervised](https://drive.google.com/file/d/1Zh75PxmrzoyPC0nvZL2y1l_1fkD5cdi8/view?usp=sharing)|
