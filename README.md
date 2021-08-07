@@ -27,11 +27,11 @@ Video Lecture Link:
 | Lecture 01 | [Introduction](https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing)
 | Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
 | Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
-| Lecture 04 | [OneR classifier] (https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
-| Lecture 05 | [Decision Tree] (https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing)|
-| Lecture 06 | [Decision Tree Basic] (https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
-| Lecture 07 | [Decision Tree Math] (https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
-| Lecture 08 | [Practical aspects of ML] (https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
+| Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
+| Lecture 05 | [Decision Tree](https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing)|
+| Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
+| Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
+| Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
 | Lecture 09 | [GEntropy, Cross-Entropy, KL-Divergence](https://drive.google.com/file/d/1EmL51b7FRsXOWgig9j2BBpbz31-88KnN/view?usp=sharing)|
 | Lecture 10 | [AutoEncoder](https://drive.google.com/file/d/1ul6XZzecj_a4LnBUyZaFEQRlVUp91vXw/view?usp=sharing<br>)|
 | Lecture 11 | [Intro to CNN](https://drive.google.com/file/d/1yZmDtrA2Pb7ipktO8mSXQPxSR-6rGINr/view?usp=sharing)|
