@@ -28,10 +28,10 @@ Video Lecture Link:
 | Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
 | Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
 | Lecture 04 | [OneR classifier] (https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
-| Lecture 05 | [Target output calculated output](https://drive.google.com/file/d/1MxyLektiQLYlDKv2jBg4hcypNiqjoVCv/view?usp=sharing)|
-| Lecture 06 | [Gradient Derivative](https://drive.google.com/file/d/1324nGDz1Xk2X5H21DoU3lcOvXJItb96k/view?usp=sharing)|
-| Lecture 07 | [Supervised, Unsupervised](https://drive.google.com/file/d/1Zh75PxmrzoyPC0nvZL2y1l_1fkD5cdi8/view?usp=sharing)|
-| Lecture 08 | [Softmax](https://drive.google.com/file/d/1F4PIYP1pr456YS2p0BbfiRyapOsYivUB/view?usp=sharing)|
+| Lecture 05 | [Decision Tree] (https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing)|
+| Lecture 06 | [Decision Tree Basic] (https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
+| Lecture 07 | [Decision Tree Math] (https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
+| Lecture 08 | [Practical aspects of ML] (https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
 | Lecture 09 | [GEntropy, Cross-Entropy, KL-Divergence](https://drive.google.com/file/d/1EmL51b7FRsXOWgig9j2BBpbz31-88KnN/view?usp=sharing)|
 | Lecture 10 | [AutoEncoder](https://drive.google.com/file/d/1ul6XZzecj_a4LnBUyZaFEQRlVUp91vXw/view?usp=sharing<br>)|
 | Lecture 11 | [Intro to CNN](https://drive.google.com/file/d/1yZmDtrA2Pb7ipktO8mSXQPxSR-6rGINr/view?usp=sharing)|
@@ -48,14 +48,6 @@ Video Lecture Link:
 
 
 
-Lecture 01 : Introduction https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing <br>
-Lecture 02 : Supervised https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing <br>
-Lecture 03 : ZeroR classifier https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing <br>
-Lecture 04 : OneR classifier https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing <br>
-Lecture 05 : Decision Tree https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing<br>
-Lecture 06 : Decision Tree Basic https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing<br>
-Lecture 07 : Decision Tree Math https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing <br>
-Lecture 08 : Practical aspects of ML https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing<br>
 Lecture 09 : K-Fold Validation https://drive.google.com/file/d/1nsRi3iTBBht4nFd_HQ0ZgHWKVO54awDr/view?usp=sharing <br>
 Lecture 10 : Data Visualization https://drive.google.com/file/d/11RtXAuTgRPKZmySrPM6L1u4sunpwEkpk/view?usp=sharing <br>
 Lecture 11 : KNN & Scaling https://drive.google.com/file/d/1eUQyWoKx4RmkzQreUs_RgWSz558sGWEU/view?usp=sharing <br>
