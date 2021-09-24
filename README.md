@@ -33,18 +33,9 @@ Video Lecture Link:
 | Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
 | Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
 | Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1m3yAiZCa3TuVYGjCTd18yKoaM_udIkuq/view?usp=sharing)|
-| Lecture 10 | [AutoEncoder](https://drive.google.com/file/d/1ul6XZzecj_a4LnBUyZaFEQRlVUp91vXw/view?usp=sharing<br>)|
-| Lecture 11 | [Intro to CNN](https://drive.google.com/file/d/1yZmDtrA2Pb7ipktO8mSXQPxSR-6rGINr/view?usp=sharing)|
-| Lecture 12 | [Kernel , Filter , AlexNet Paper](https://drive.google.com/file/d/1mIEH3_RJaxlsR1H9forDzCydZO5ZMuCr/view?usp=sharing)|
-| Lecture 13 | [Calculate the Shpae of CNN (Alexnet Papaer)](https://drive.google.com/file/d/1jcE5c8wjvLRBj7elgIMsye6LNsKEAW1V/view?usp=sharing)|
-| Lecture 14 | [CNN padding, stride](https://drive.google.com/file/d/1rybGxgY8YluSySNux_Sn1zHD17FzjTJ4/view?usp=sharing)|
+| Lecture 10 | [Data Visualization](https://drive.google.com/file/d/1uP99mvxoxo1kw1mbKVngXnyU5irg__WB/view?usp=sharing)|
+| Lecture 11 | [KNN & Scaling](https://drive.google.com/file/d/1EPz2H2y5ZSHmEAPU34CY_PEuoPxR8Jlw/view?usp=sharing)|
+| Lecture 12 | [Imbalance class prbolem, Precision, Recall, F1-Score](https://drive.google.com/file/d/1XHRGxMRz6v2_tsrRTBBwDHw8MfH6gTxg/view?usp=sharing)|
+| Lecture 13 | [Accuracy metrics & AUC ROC curve](https://drive.google.com/file/d/17Ycffc7TWVbsQTxKSHF1whvihNxOlj_c/view?usp=sharing)|
+| Lecture 14 | [Notebook Example](https://drive.google.com/file/d/19rtGIAMWuHaqIhTOPEzbMmwDqh-MduW4/view?usp=sharing)|
 
-
-
-
-Lecture 09 : K-Fold Validation https://drive.google.com/file/d/1nsRi3iTBBht4nFd_HQ0ZgHWKVO54awDr/view?usp=sharing <br>
-Lecture 10 : Data Visualization https://drive.google.com/file/d/11RtXAuTgRPKZmySrPM6L1u4sunpwEkpk/view?usp=sharing <br>
-Lecture 11 : KNN & Scaling https://drive.google.com/file/d/1eUQyWoKx4RmkzQreUs_RgWSz558sGWEU/view?usp=sharing <br>
-Lecture 12 : Imbalance class prbolem, Precision, Recall, F1-Score https://drive.google.com/file/d/1IKpEsJhFls50DKSKvE6xedUsv93mZsjF/view?usp=sharing <br>
-Lecture 13 : Accuracy metrics & AUC ROC curve https://drive.google.com/file/d/1Ltzb-iQdtAhagX9-yi8gNGDbUMXGfMzv/view?usp=sharing<br>
-Lecture 14 : Notebook Example https://drive.google.com/file/d/1PhKw66PqujW5WQ9avuFU7qC8Ge6TIoZJ/view?usp=sharing <br>
