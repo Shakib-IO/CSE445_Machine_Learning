@@ -24,7 +24,7 @@ Video Lecture Link:
 
 | Lecture No        | Link     | 
 | ------------- |:-------------:| 
-| Lecture 01 | [Introduction](https://drive.google.com/file/d/1XH7uXanUyS10BDMVwq9_jwLudx3hVMVh/view?usp=sharing)
+| Lecture 01 | [Introduction](https://drive.google.com/file/d/1RQYDUTRqfnSorJB1tkNUGbg_y6ZiY1Dn/view?usp=sharing)
 | Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
 | Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
 | Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
