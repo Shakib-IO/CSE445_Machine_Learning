@@ -32,7 +32,7 @@ Video Lecture Link:
 | Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1HGKO-VlpgLs3Yc57rrSLAMj5Bo939OyV/view?usp=sharing)|
 | Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1ck4NWiTk-m-Hqeykp12BqHStsmAZJXCd/view?usp=sharing)|
 | Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
-| Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1m3yAiZCa3TuVYGjCTd18yKoaM_udIkuq/view?usp=sharing)|
+| Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1IzMkcEXX5TIcsVFOSX-kn0cOS4rlAct9/view?usp=sharing)|
 | Lecture 10 | [Data Visualization](https://drive.google.com/file/d/1uP99mvxoxo1kw1mbKVngXnyU5irg__WB/view?usp=sharing)|
 | Lecture 11 | [KNN & Scaling](https://drive.google.com/file/d/1EPz2H2y5ZSHmEAPU34CY_PEuoPxR8Jlw/view?usp=sharing)|
 | Lecture 12 | [Imbalance class prbolem, Precision, Recall, F1-Score](https://drive.google.com/file/d/1XHRGxMRz6v2_tsrRTBBwDHw8MfH6gTxg/view?usp=sharing)|
