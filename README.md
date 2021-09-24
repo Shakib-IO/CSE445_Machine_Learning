@@ -25,10 +25,10 @@ Video Lecture Link:
 | Lecture No        | Link     | 
 | ------------- |:-------------:| 
 | Lecture 01 | [Introduction](https://drive.google.com/file/d/1RQYDUTRqfnSorJB1tkNUGbg_y6ZiY1Dn/view?usp=sharing)
-| Lecture 02 | [Supervised](https://drive.google.com/file/d/19fyNkr9SXeC5T7ipyDDXY1MQW0t4Y2aJ/view?usp=sharing)|   
-| Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/1ZddUv4K4JnyHPjEE0L6otqdANQI4Vikt/view?usp=sharing)|
-| Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1HlqzIcMkwxTqEjwstqAcVR0hBL_OPgCJ/view?usp=sharing)|
-| Lecture 05 | [Decision Tree](https://drive.google.com/file/d/1Dg4wCa8fxJhjz3qnk8jOnmGhQi383fjJ/view?usp=sharing)|
+| Lecture 02 | [Supervised](https://drive.google.com/file/d/1Y67CkvH-Qs_W9Mt39m5tcgQDBlCZCbd8/view?usp=sharing)|   
+| Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/17YJ9KX9210_gZTDvlD8M9tB65tWCV29z/view?usp=sharing)|
+| Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1qy7S4wbVfWFVHg_FjQLGinPDRKH-bhNe/view?usp=sharing)|
+| Lecture 05 | [Decision Tree](https://drive.google.com/file/d/15BUqkuiyZHUcalAL7bNEEe2B-4x4U-Q_/view?usp=sharing)|
 | Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
 | Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
 | Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
