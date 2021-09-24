@@ -29,8 +29,8 @@ Video Lecture Link:
 | Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/17YJ9KX9210_gZTDvlD8M9tB65tWCV29z/view?usp=sharing)|
 | Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1qy7S4wbVfWFVHg_FjQLGinPDRKH-bhNe/view?usp=sharing)|
 | Lecture 05 | [Decision Tree](https://drive.google.com/file/d/15BUqkuiyZHUcalAL7bNEEe2B-4x4U-Q_/view?usp=sharing)|
-| Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
-| Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
+| Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1HGKO-VlpgLs3Yc57rrSLAMj5Bo939OyV/view?usp=sharing)|
+| Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1ck4NWiTk-m-Hqeykp12BqHStsmAZJXCd/view?usp=sharing)|
 | Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
 | Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1m3yAiZCa3TuVYGjCTd18yKoaM_udIkuq/view?usp=sharing)|
 | Lecture 10 | [Data Visualization](https://drive.google.com/file/d/1uP99mvxoxo1kw1mbKVngXnyU5irg__WB/view?usp=sharing)|
