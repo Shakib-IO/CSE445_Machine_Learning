@@ -32,19 +32,13 @@ Video Lecture Link:
 | Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1r1V-K1HMTX0Mr9A72p-Jt0_tHO6TPra_/view?usp=sharing)|
 | Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1iXJeMBr5JOkNbMSbg0oDLD208n6J1G8p/view?usp=sharing)|
 | Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
-| Lecture 09 | [GEntropy, Cross-Entropy, KL-Divergence](https://drive.google.com/file/d/1EmL51b7FRsXOWgig9j2BBpbz31-88KnN/view?usp=sharing)|
+| Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1m3yAiZCa3TuVYGjCTd18yKoaM_udIkuq/view?usp=sharing)|
 | Lecture 10 | [AutoEncoder](https://drive.google.com/file/d/1ul6XZzecj_a4LnBUyZaFEQRlVUp91vXw/view?usp=sharing<br>)|
 | Lecture 11 | [Intro to CNN](https://drive.google.com/file/d/1yZmDtrA2Pb7ipktO8mSXQPxSR-6rGINr/view?usp=sharing)|
 | Lecture 12 | [Kernel , Filter , AlexNet Paper](https://drive.google.com/file/d/1mIEH3_RJaxlsR1H9forDzCydZO5ZMuCr/view?usp=sharing)|
 | Lecture 13 | [Calculate the Shpae of CNN (Alexnet Papaer)](https://drive.google.com/file/d/1jcE5c8wjvLRBj7elgIMsye6LNsKEAW1V/view?usp=sharing)|
 | Lecture 14 | [CNN padding, stride](https://drive.google.com/file/d/1rybGxgY8YluSySNux_Sn1zHD17FzjTJ4/view?usp=sharing)|
-| Lecture 15 | []()|
-| Lecture 16 | [Siamese Network](https://drive.google.com/file/d/1_zcTrOfoU0mAm5sLidlOnqK31X2NBTQ0/view?usp=sharing)|
-| Lecture 17 | [Triplet loss](https://drive.google.com/file/d/1GM0yzHq9uuY_TcFIbvjAHNg1js1SCZdC/view?usp=sharing)|
-| Lecture 18 | [RNN](https://drive.google.com/file/d/1-scEA6TxRU4IEwQ30QqnQOoO0p8X7cLm/view?usp=sharing )|
-| Lecture 19 | [Transformer](https://drive.google.com/file/d/1qh6ujiEVvE9kuarVLrNHT9U3PMfk2wJp/view?usp=sharing)|
-| Lecture 20 | [LSTM](https://drive.google.com/file/d/1womR3T5yaFhtXoOxqP2oKd4wXgnTAJ2n/view?usp=sharing)|
-| Lecture 21 | [Assessment discussion](https://drive.google.com/file/d/13MGWK-_v-WwBA-OykoLdGl7W0ig_SmLI/view?usp=sharing)|
+
 
 
 
