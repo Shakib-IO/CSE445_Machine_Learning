@@ -18,3 +18,24 @@ Noisy Image
 
 Ground Truth Image
 
+**Class Lecture**
+
+Video Lecture Link:
+
+| Lecture No        | Link     | 
+| ------------- |:-------------:| 
+| Lecture 01 | [Introduction](https://drive.google.com/file/d/1RQYDUTRqfnSorJB1tkNUGbg_y6ZiY1Dn/view?usp=sharing)
+| Lecture 02 | [Supervised](https://drive.google.com/file/d/1Y67CkvH-Qs_W9Mt39m5tcgQDBlCZCbd8/view?usp=sharing)|   
+| Lecture 03 | [ZeroR classifier](https://drive.google.com/file/d/17YJ9KX9210_gZTDvlD8M9tB65tWCV29z/view?usp=sharing)|
+| Lecture 04 | [OneR classifier](https://drive.google.com/file/d/1qy7S4wbVfWFVHg_FjQLGinPDRKH-bhNe/view?usp=sharing)|
+| Lecture 05 | [Decision Tree](https://drive.google.com/file/d/15BUqkuiyZHUcalAL7bNEEe2B-4x4U-Q_/view?usp=sharing)|
+| Lecture 06 | [Decision Tree Basic](https://drive.google.com/file/d/1HGKO-VlpgLs3Yc57rrSLAMj5Bo939OyV/view?usp=sharing)|
+| Lecture 07 | [Decision Tree Math](https://drive.google.com/file/d/1ck4NWiTk-m-Hqeykp12BqHStsmAZJXCd/view?usp=sharing)|
+| Lecture 08 | [Practical aspects of ML](https://drive.google.com/file/d/11gDuct8jt8O6wVeU0_PBj9A9kai71rKg/view?usp=sharing)|
+| Lecture 09 | [K-Fold Validation](https://drive.google.com/file/d/1IzMkcEXX5TIcsVFOSX-kn0cOS4rlAct9/view?usp=sharing)|
+| Lecture 10 | [Data Visualization](https://drive.google.com/file/d/1uP99mvxoxo1kw1mbKVngXnyU5irg__WB/view?usp=sharing)|
+| Lecture 11 | [KNN & Scaling](https://drive.google.com/file/d/1EPz2H2y5ZSHmEAPU34CY_PEuoPxR8Jlw/view?usp=sharing)|
+| Lecture 12 | [Imbalance class prbolem, Precision, Recall, F1-Score](https://drive.google.com/file/d/1XHRGxMRz6v2_tsrRTBBwDHw8MfH6gTxg/view?usp=sharing)|
+| Lecture 13 | [Accuracy metrics & AUC ROC curve](https://drive.google.com/file/d/17Ycffc7TWVbsQTxKSHF1whvihNxOlj_c/view?usp=sharing)|
+| Lecture 14 | [Notebook Example](https://drive.google.com/file/d/19rtGIAMWuHaqIhTOPEzbMmwDqh-MduW4/view?usp=sharing)|
+
