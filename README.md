@@ -1,4 +1,4 @@
-# CSE445: Machine_Learning
+# CSE445: Machine Learning
 
 # Project Title: Image Denoise with AutoEncoder
 
